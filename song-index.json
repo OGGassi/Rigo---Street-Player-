@@ -1,0 +1,123 @@
+[
+  {
+    "id": "yesh-bi-ahava",
+    "title": "יש בי אהבה",
+    "titleTransliterated": "Yesh Bi Ahava",
+    "artist": "זהו זה",
+    "originalKey": "C",
+    "difficulty": "beginner",
+    "tags": ["ballad", "popular", "90s"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": true
+  },
+  {
+    "id": "halev-sheli",
+    "title": "הלב שלי",
+    "titleTransliterated": "Halev Sheli",
+    "artist": "זהו זה",
+    "originalKey": "G",
+    "difficulty": "beginner",
+    "tags": ["ballad", "popular", "emotional"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": false
+  },
+  {
+    "id": "shir-hahed",
+    "title": "שיר ההד",
+    "titleTransliterated": "Shir HaHed",
+    "artist": "זהו זה",
+    "originalKey": "Am",
+    "difficulty": "intermediate",
+    "tags": ["melancholic", "reflective", "folk"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": true
+  },
+  {
+    "id": "yihiye-tov",
+    "title": "יהיה טוב",
+    "titleTransliterated": "Yihiye Tov",
+    "artist": "זהו זה",
+    "originalKey": "D",
+    "difficulty": "beginner",
+    "tags": ["hopeful", "uplifting", "popular"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": true
+  },
+  {
+    "id": "geshem",
+    "title": "גשם",
+    "titleTransliterated": "Geshem",
+    "artist": "זהו זה",
+    "originalKey": "Em",
+    "difficulty": "beginner",
+    "tags": ["melancholic", "winter", "ballad"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": true
+  },
+  {
+    "id": "layla",
+    "title": "לילה",
+    "titleTransliterated": "Layla",
+    "artist": "זהו זה",
+    "originalKey": "Dm",
+    "difficulty": "intermediate",
+    "tags": ["night", "reflective", "atmospheric"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": false
+  },
+  {
+    "id": "perach-halilach",
+    "title": "פרח הלילך",
+    "titleTransliterated": "Perach HaLilach",
+    "artist": "זהו זה",
+    "originalKey": "Em",
+    "difficulty": "intermediate",
+    "tags": ["waltz", "nostalgic", "flowers"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": true
+  },
+  {
+    "id": "mila-tova",
+    "title": "מילה טובה",
+    "titleTransliterated": "Mila Tova",
+    "artist": "זהו זה",
+    "originalKey": "G",
+    "difficulty": "beginner",
+    "tags": ["uplifting", "popular", "encouraging"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": true
+  },
+  {
+    "id": "etzlenu-bechatzar",
+    "title": "אצלנו בחצר",
+    "titleTransliterated": "Etzlenu BeChatzar",
+    "artist": "זהו זה",
+    "originalKey": "C",
+    "difficulty": "beginner",
+    "tags": ["nostalgic", "childhood", "neighborhood"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": true
+  },
+  {
+    "id": "yesh-ei-sham",
+    "title": "יש אי שם",
+    "titleTransliterated": "Yesh Ei Sham",
+    "artist": "זהו זה",
+    "originalKey": "A",
+    "difficulty": "intermediate",
+    "tags": ["hopeful", "dreamlike", "journey"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": true
+  },
+  {
+    "id": "halev-sheli-live",
+    "title": "הלב שלי - LIVE",
+    "titleTransliterated": "Halev Sheli - LIVE",
+    "artist": "זהו זה",
+    "originalKey": "G",
+    "difficulty": "beginner",
+    "tags": ["ballad", "popular", "emotional", "live"],
+    "hasLiveVersion": true,
+    "hasStudioVersion": false
+  }
+]
