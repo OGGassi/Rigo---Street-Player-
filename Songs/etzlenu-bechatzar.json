@@ -1,1 +1,278 @@
-[{"{":"\"id\": \"etzlenu-bechatzar\""},{"{":"\"title\": \"אצלנו בחצר\""},{"{":"\"titleTransliterated\": \"Etzlenu BeChatzar\""},{"{":"\"titleTranslated\": \"In Our Courtyard\""},{"{":"\"artist\": \"זהו זה\""},{"{":"\"artistTransliterated\": \"Zehu Ze\""},{"{":"\"originalKey\": \"C\""},{"{":"\"timeSignature\": \"4/4\""},{"{":"\"recommendedBpm\": 76"},{"{":"\"difficulty\": \"beginner\""},{"{":"\"hasLiveVersion\": true"},{"{":"\"hasStudioVersion\": true"},{"{":"\"tags\": [\"nostalgic\""},{"{":null},{"{":"\"sections\": ["},{"{":"{"},{"{":"\"name\": \"intro\""},{"{":"\"type\": \"intro\""},{"{":"\"chords\": [\"C\""},{"{":"\"repeat\": 1"},{"{":"}"},{"{":"{"},{"{":"\"name\": \"verse1\""},{"{":"\"type\": \"verse\""},{"{":"\"lyrics\": ["},{"{":"{"},{"{":"\"line\": \"[Line about courtyard games]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"C\""},{"{":"{\"chord\": \"G\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about children playing]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"Am\""},{"{":"{\"chord\": \"F\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about sunny days]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"C\""},{"{":"{\"chord\": \"G\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about carefree times]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"F\""},{"{":"{\"chord\": \"G\""},{"{":"]"},{"{":"}"},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"name\": \"chorus\""},{"{":"\"type\": \"chorus\""},{"{":"\"lyrics\": ["},{"{":"{"},{"{":"\"line\": \"[Line about our courtyard]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"C\""},{"{":"{\"chord\": \"G\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about shared memories]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"Am\""},{"{":"{\"chord\": \"F\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about friends gathering]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"C\""},{"{":"{\"chord\": \"G\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about lasting friendships]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"F\""},{"{":"{\"chord\": \"G\""},{"{":"{\"chord\": \"C\""},{"{":"]"},{"{":"}"},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"name\": \"verse2\""},{"{":"\"type\": \"verse\""},{"{":"\"lyrics\": ["},{"{":"{"},{"{":"\"line\": \"[Line about neighbors' windows]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"C\""},{"{":"{\"chord\": \"G\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about watching from above]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"Am\""},{"{":"{\"chord\": \"F\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about shared celebrations]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"C\""},{"{":"{\"chord\": \"G\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about community spirit]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"F\""},{"{":"{\"chord\": \"G\""},{"{":"]"},{"{":"}"},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"name\": \"bridge\""},{"{":"\"type\": \"bridge\""},{"{":"\"lyrics\": ["},{"{":"{"},{"{":"\"line\": \"[Line about years passing]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"F\""},{"{":"{\"chord\": \"G\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about changes]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"Em\""},{"{":"{\"chord\": \"Am\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about returning memories]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"F\""},{"{":"{\"chord\": \"G\""},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"line\": \"[Line about heart's treasures]\""},{"{":"\"chords\": ["},{"{":"{\"chord\": \"G7\""},{"{":"]"},{"{":"}"},{"{":"]"},{"{":"}"},{"{":"{"},{"{":"\"name\": \"chorus_repeat\""},{"{":"\"type\": \"chorus\""},{"{":"\"sameAs\": \"chorus\""},{"{":"\"repeat\": 2"},{"{":"}"},{"{":"{"},{"{":"\"name\": \"outro\""},{"{":"\"type\": \"outro\""},{"{":"\"chords\": [\"C\""},{"{":"\"notes\": \"End with gentle C arpeggio\""},{"{":"}"},{"{":"]"},{"{":null},{"{":"\"structure\": [\"intro\""},{"{":null},{"{":"\"chordDiagrams\": {"},{"{":"\"C\": {"},{"{":"\"name\": \"C major\""},{"{":"\"positions\": ["},{"{":"{"},{"{":"\"frets\": [\"x\""},{"{":"\"fingers\": [\"x\""},{"{":"\"baseFret\": 1"},{"{":"\"barres\": []"},{"{":"}"},{"{":"]"},{"{":"}"},{"{":"\"G\": {"},{"{":"\"name\": \"G major\""},{"{":"\"positions\": ["},{"{":"{"},{"{":"\"frets\": [\"3\""},{"{":"\"fingers\": [\"2\""},{"{":"\"baseFret\": 1"},{"{":"\"barres\": []"},{"{":"}"},{"{":"]"},{"{":"}"},{"{":"\"Am\": {"},{"{":"\"name\": \"A minor\""},{"{":"\"positions\": ["},{"{":"{"},{"{":"\"frets\": [\"x\""},{"{":"\"fingers\": [\"x\""},{"{":"\"baseFret\": 1"},{"{":"\"barres\": []"},{"{":"}"},{"{":"]"},{"{":"}"},{"{":"\"F\": {"},{"{":"\"name\": \"F major\""},{"{":"\"positions\": ["},{"{":"{"},{"{":"\"frets\": [\"1\""},{"{":"\"fingers\": [\"1\""},{"{":"\"baseFret\": 1"},{"{":"\"barres\": [1]"},{"{":"}"},{"{":"{"},{"{":"\"frets\": [\"x\""},{"{":"\"fingers\": [\"x\""},{"{":"\"baseFret\": 1"},{"{":"\"barres\": [1]"},{"{":"\"isSimplified\": true"},{"{":"}"},{"{":"]"},{"{":"}"},{"{":"\"Em\": {"},{"{":"\"name\": \"E minor\""},{"{":"\"positions\": ["},{"{":"{"},{"{":"\"frets\": [\"0\""},{"{":"\"fingers\": [\"0\""},{"{":"\"baseFret\": 1"},{"{":"\"barres\": []"},{"{":"}"},{"{":"]"},{"{":"}"},{"{":"\"G7\": {"},{"{":"\"name\": \"G dominant 7th\""},{"{":"\"positions\": ["},{"{":"{"},{"{":"\"frets\": [\"3\""},{"{":"\"fingers\": [\"3\""},{"{":"\"baseFret\": 1"},{"{":"\"barres\": []"},{"{":"}"},{"{":"]"},{"{":"}"},{"{":"}"},{"{":null},{"{":"\"strumPatterns\": ["},{"{":"{"},{"{":"\"name\": \"Gentle Pattern\""},{"{":"\"pattern\": \"D DU U DU\""},{"{":"\"beats\": 4"},{"{":"\"defaultForSections\": [\"verse1\""},{"{":"}"},{"{":"{"},{"{":"\"name\": \"Chorus Pattern\""},{"{":"\"pattern\": \"D DU UDU\""},{"{":"\"beats\": 4"},{"{":"\"defaultForSections\": [\"chorus\""},{"{":"}"},{"{":"]"},{"{":null},{"{":"\"capoSettings\": ["},{"{":"{"},{"{":"\"capoFret\": 0"},{"{":"\"chords\": {\"C\": \"C\""},{"{":"}"},{"{":"{"},{"{":"\"capoFret\": 3"},{"{":"\"chords\": {\"C\": \"A\""},{"{":"}"},{"{":"]"},{"{":null},{"{":"\"performanceNotes\": \"Play with a nostalgic"},{"{":"}"}]
+{
+  "id": "etzlenu-bechatzar",
+  "title": "אצלנו בחצר",
+  "titleTransliterated": "Etzlenu BeChatzar",
+  "titleTranslated": "In Our Courtyard",
+  "artist": "זהו זה",
+  "artistTransliterated": "Zehu Ze",
+  "originalKey": "C",
+  "timeSignature": "4/4",
+  "recommendedBpm": 76,
+  "difficulty": "beginner",
+  "hasLiveVersion": true,
+  "hasStudioVersion": true,
+  "tags": ["nostalgic", "childhood", "neighborhood"],
+  
+  "sections": [
+    {
+      "name": "intro",
+      "type": "intro",
+      "chords": ["C", "G", "Am", "F", "C", "G"],
+      "repeat": 1
+    },
+    {
+      "name": "verse1",
+      "type": "verse",
+      "lyrics": [
+        {
+          "line": "[Line about courtyard games]",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "G", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line about children playing]",
+          "chords": [
+            {"chord": "Am", "position": 0},
+            {"chord": "F", "position": 15}
+          ]
+        },
+        {
+          "line": "[Line about sunny days]",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "G", "position": 12}
+          ]
+        },
+        {
+          "line": "[Line about carefree times]",
+          "chords": [
+            {"chord": "F", "position": 0},
+            {"chord": "G", "position": 14}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chorus",
+      "type": "chorus",
+      "lyrics": [
+        {
+          "line": "[Line about our courtyard]",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "G", "position": 12}
+          ]
+        },
+        {
+          "line": "[Line about shared memories]",
+          "chords": [
+            {"chord": "Am", "position": 0},
+            {"chord": "F", "position": 15}
+          ]
+        },
+        {
+          "line": "[Line about friends gathering]",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "G", "position": 15}
+          ]
+        },
+        {
+          "line": "[Line about lasting friendships]",
+          "chords": [
+            {"chord": "F", "position": 0},
+            {"chord": "G", "position": 15},
+            {"chord": "C", "position": 23}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "verse2",
+      "type": "verse",
+      "lyrics": [
+        {
+          "line": "[Line about neighbors' windows]",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "G", "position": 18}
+          ]
+        },
+        {
+          "line": "[Line about watching from above]",
+          "chords": [
+            {"chord": "Am", "position": 0},
+            {"chord": "F", "position": 17}
+          ]
+        },
+        {
+          "line": "[Line about shared celebrations]",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "G", "position": 19}
+          ]
+        },
+        {
+          "line": "[Line about community spirit]",
+          "chords": [
+            {"chord": "F", "position": 0},
+            {"chord": "G", "position": 16}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bridge",
+      "type": "bridge",
+      "lyrics": [
+        {
+          "line": "[Line about years passing]",
+          "chords": [
+            {"chord": "F", "position": 0},
+            {"chord": "G", "position": 12}
+          ]
+        },
+        {
+          "line": "[Line about changes]",
+          "chords": [
+            {"chord": "Em", "position": 0},
+            {"chord": "Am", "position": 10}
+          ]
+        },
+        {
+          "line": "[Line about returning memories]",
+          "chords": [
+            {"chord": "F", "position": 0},
+            {"chord": "G", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line about heart's treasures]",
+          "chords": [
+            {"chord": "G7", "position": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chorus_repeat",
+      "type": "chorus",
+      "sameAs": "chorus",
+      "repeat": 2
+    },
+    {
+      "name": "outro",
+      "type": "outro",
+      "chords": ["C", "G", "Am", "F", "C", "G", "C"],
+      "notes": "End with gentle C arpeggio"
+    }
+  ],
+  
+  "structure": ["intro", "verse1", "chorus", "verse2", "chorus", "bridge", "chorus_repeat", "outro"],
+  
+  "chordDiagrams": {
+    "C": {
+      "name": "C major",
+      "positions": [
+        {
+          "frets": ["x", "3", "2", "0", "1", "0"],
+          "fingers": ["x", "3", "2", "0", "1", "0"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "G": {
+      "name": "G major",
+      "positions": [
+        {
+          "frets": ["3", "2", "0", "0", "0", "3"],
+          "fingers": ["2", "1", "0", "0", "0", "3"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "Am": {
+      "name": "A minor",
+      "positions": [
+        {
+          "frets": ["x", "0", "2", "2", "1", "0"],
+          "fingers": ["x", "0", "2", "3", "1", "0"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "F": {
+      "name": "F major",
+      "positions": [
+        {
+          "frets": ["1", "3", "3", "2", "1", "1"],
+          "fingers": ["1", "3", "4", "2", "1", "1"],
+          "baseFret": 1,
+          "barres": [1]
+        },
+        {
+          "frets": ["x", "x", "3", "2", "1", "1"],
+          "fingers": ["x", "x", "3", "2", "1", "1"],
+          "baseFret": 1,
+          "barres": [1],
+          "isSimplified": true
+        }
+      ]
+    },
+    "Em": {
+      "name": "E minor",
+      "positions": [
+        {
+          "frets": ["0", "2", "2", "0", "0", "0"],
+          "fingers": ["0", "2", "3", "0", "0", "0"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "G7": {
+      "name": "G dominant 7th",
+      "positions": [
+        {
+          "frets": ["3", "2", "0", "0", "0", "1"],
+          "fingers": ["3", "2", "0", "0", "0", "1"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    }
+  },
+  
+  "strumPatterns": [
+    {
+      "name": "Gentle Pattern",
+      "pattern": "D DU U DU",
+      "beats": 4,
+      "defaultForSections": ["verse1", "verse2"]
+    },
+    {
+      "name": "Chorus Pattern",
+      "pattern": "D DU UDU",
+      "beats": 4,
+      "defaultForSections": ["chorus", "chorus_repeat"]
+    }
+  ],
+  
+  "capoSettings": [
+    {
+      "capoFret": 0,
+      "chords": {"C": "C", "G": "G", "Am": "Am", "F": "F", "Em": "Em", "G7": "G7"}
+    },
+    {
+      "capoFret": 3,
+      "chords": {"C": "A", "G": "E", "Am": "F#m", "F": "D", "Em": "C#m", "G7": "E7"}
+    }
+  ],
+  
+  "performanceNotes": "Play with a nostalgic, gentle feel. This song is about childhood memories and neighborhood connections, so try to convey warmth and community spirit."
+}
