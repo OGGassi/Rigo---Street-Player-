@@ -1,0 +1,300 @@
+{
+  "id": "layla",
+  "title": "לילה",
+  "titleTransliterated": "Layla",
+  "titleTranslated": "Night",
+  "artist": "זהו זה",
+  "artistTransliterated": "Zehu Ze",
+  "originalKey": "Dm",
+  "timeSignature": "4/4",
+  "recommendedBpm": 65,
+  "difficulty": "intermediate",
+  "hasLiveVersion": true,
+  "hasStudioVersion": false,
+  "tags": ["night", "reflective", "atmospheric"],
+  
+  "sections": [
+    {
+      "name": "intro",
+      "type": "intro",
+      "chords": ["Dm", "Bb", "F", "C"],
+      "repeat": 2
+    },
+    {
+      "name": "verse1",
+      "type": "verse",
+      "lyrics": [
+        {
+          "line": "[Line about night falling slowly]",
+          "chords": [
+            {"chord": "Dm", "position": 0},
+            {"chord": "Bb", "position": 14}
+          ]
+        },
+        {
+          "line": "[Line about city lights appearing]",
+          "chords": [
+            {"chord": "F", "position": 0},
+            {"chord": "C", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line about watching from window]",
+          "chords": [
+            {"chord": "Bb", "position": 0},
+            {"chord": "F", "position": 15}
+          ]
+        },
+        {
+          "line": "[Line about thoughts in darkness]",
+          "chords": [
+            {"chord": "Gm", "position": 0},
+            {"chord": "A", "position": 15},
+            {"chord": "Dm", "position": 22}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pre_chorus",
+      "type": "pre_chorus",
+      "lyrics": [
+        {
+          "line": "[Line about stars appearing]",
+          "chords": [
+            {"chord": "Bb", "position": 0},
+            {"chord": "C", "position": 15}
+          ]
+        },
+        {
+          "line": "[Line about heavens speaking]",
+          "chords": [
+            {"chord": "F", "position": 0},
+            {"chord": "A", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line about secrets of night]",
+          "chords": [
+            {"chord": "Dm", "position": 0},
+            {"chord": "Bb", "position": 12},
+            {"chord": "C", "position": 20}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chorus",
+      "type": "chorus",
+      "lyrics": [
+        {
+          "line": "[Line addressing the night]",
+          "chords": [
+            {"chord": "F", "position": 0},
+            {"chord": "C", "position": 15}
+          ]
+        },
+        {
+          "line": "[Line about night's embrace]",
+          "chords": [
+            {"chord": "Bb", "position": 0},
+            {"chord": "A", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line about mystery and calm]",
+          "chords": [
+            {"chord": "Dm", "position": 0},
+            {"chord": "Bb", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line about finding peace]",
+          "chords": [
+            {"chord": "F", "position": 0},
+            {"chord": "C", "position": 10},
+            {"chord": "Dm", "position": 18}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "instrumental",
+      "type": "instrumental",
+      "chords": ["Dm", "Bb", "F", "C", "Dm"],
+      "repeat": 1
+    },
+    {
+      "name": "verse2",
+      "type": "verse",
+      "lyrics": [
+        {
+          "line": "[Line about shadows dancing]",
+          "chords": [
+            {"chord": "Dm", "position": 0},
+            {"chord": "Bb", "position": 14}
+          ]
+        },
+        {
+          "line": "[Line about moonlight reflections]",
+          "chords": [
+            {"chord": "F", "position": 0},
+            {"chord": "C", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line about whispered memories]",
+          "chords": [
+            {"chord": "Bb", "position": 0},
+            {"chord": "F", "position": 15}
+          ]
+        },
+        {
+          "line": "[Line about carrying burdens]",
+          "chords": [
+            {"chord": "Gm", "position": 0},
+            {"chord": "A", "position": 15},
+            {"chord": "Dm", "position": 22}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pre_chorus_repeat",
+      "type": "pre_chorus",
+      "sameAs": "pre_chorus"
+    },
+    {
+      "name": "chorus_repeat",
+      "type": "chorus",
+      "sameAs": "chorus",
+      "repeat": 2
+    },
+    {
+      "name": "outro",
+      "type": "outro",
+      "chords": ["Dm", "Bb", "F", "C", "Dm"],
+      "notes": "Final Dm gentle arpeggio"
+    }
+  ],
+  
+  "structure": ["intro", "verse1", "pre_chorus", "chorus", "instrumental", "verse2", "pre_chorus_repeat", "chorus_repeat", "outro"],
+  
+  "chordDiagrams": {
+    "Dm": {
+      "name": "D minor",
+      "positions": [
+        {
+          "frets": ["x", "x", "0", "2", "3", "1"],
+          "fingers": ["x", "x", "0", "2", "3", "1"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "Bb": {
+      "name": "B flat major",
+      "positions": [
+        {
+          "frets": ["x", "1", "3", "3", "3", "1"],
+          "fingers": ["x", "1", "2", "3", "4", "1"],
+          "baseFret": 1,
+          "barres": [1]
+        },
+        {
+          "frets": ["x", "1", "3", "3", "3", "x"],
+          "fingers": ["x", "1", "2", "3", "4", "x"],
+          "baseFret": 1,
+          "barres": [],
+          "isSimplified": true
+        }
+      ]
+    },
+    "F": {
+      "name": "F major",
+      "positions": [
+        {
+          "frets": ["1", "3", "3", "2", "1", "1"],
+          "fingers": ["1", "3", "4", "2", "1", "1"],
+          "baseFret": 1,
+          "barres": [1]
+        },
+        {
+          "frets": ["x", "x", "3", "2", "1", "1"],
+          "fingers": ["x", "x", "3", "2", "1", "1"],
+          "baseFret": 1,
+          "barres": [1],
+          "isSimplified": true
+        }
+      ]
+    },
+    "C": {
+      "name": "C major",
+      "positions": [
+        {
+          "frets": ["x", "3", "2", "0", "1", "0"],
+          "fingers": ["x", "3", "2", "0", "1", "0"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "Gm": {
+      "name": "G minor",
+      "positions": [
+        {
+          "frets": ["3", "5", "5", "3", "3", "3"],
+          "fingers": ["1", "3", "4", "1", "1", "1"],
+          "baseFret": 1,
+          "barres": [3]
+        },
+        {
+          "frets": ["x", "x", "0", "3", "3", "1"],
+          "fingers": ["x", "x", "0", "3", "4", "1"],
+          "baseFret": 1,
+          "barres": [],
+          "isSimplified": true
+        }
+      ]
+    },
+    "A": {
+      "name": "A major",
+      "positions": [
+        {
+          "frets": ["x", "0", "2", "2", "2", "0"],
+          "fingers": ["x", "0", "1", "2", "3", "0"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    }
+  },
+  
+  "strumPatterns": [
+    {
+      "name": "Night Pattern",
+      "pattern": "D . DU U .",
+      "beats": 4,
+      "defaultForSections": ["verse1", "verse2"]
+    },
+    {
+      "name": "Atmospheric Pattern",
+      "pattern": "D . D . DU UD",
+      "beats": 4,
+      "defaultForSections": ["chorus", "chorus_repeat"]
+    }
+  ],
+  
+  "capoSettings": [
+    {
+      "capoFret": 0,
+      "chords": {"Dm": "Dm", "Bb": "Bb", "F": "F", "C": "C", "Gm": "Gm", "A": "A"}
+    },
+    {
+      "capoFret": 5,
+      "chords": {"Dm": "Am", "Bb": "F", "F": "C", "C": "G", "Gm": "Dm", "A": "E"}
+    }
+  ],
+  
+  "performanceNotes": "Create a dreamy atmosphere with gentle fingerpicking or soft strumming. This song works beautifully in the evenings or at night performances. Consider playing with slight reverb if using amplification. Use the capo on 5th fret for a lighter, airier sound."
+}

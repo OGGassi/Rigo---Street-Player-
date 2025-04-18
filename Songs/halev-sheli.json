@@ -1,0 +1,273 @@
+{
+  "id": "halev-sheli",
+  "title": "הלב שלי",
+  "titleTransliterated": "Halev Sheli",
+  "titleTranslated": "My Heart",
+  "artist": "זהו זה",
+  "artistTransliterated": "Zehu Ze",
+  "originalKey": "G",
+  "timeSignature": "4/4",
+  "recommendedBpm": 92,
+  "difficulty": "beginner",
+  "hasLiveVersion": true,
+  "hasStudioVersion": false,
+  "tags": ["ballad", "popular", "emotional"],
+  
+  "sections": [
+    {
+      "name": "intro",
+      "type": "intro",
+      "chords": ["G", "D/F#", "Em", "C", "D"],
+      "repeat": 1
+    },
+    {
+      "name": "verse1",
+      "type": "verse",
+      "lyrics": [
+        {
+          "line": "הלב שלי עוד פועם בקצב משלו",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "D/F#", "position": 11},
+            {"chord": "Em", "position": 20}
+          ]
+        },
+        {
+          "line": "וכל הדרכים עוד פתוחות לפניי",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "D", "position": 13},
+            {"chord": "G", "position": 26}
+          ]
+        },
+        {
+          "line": "אני צועד לאט, לאט",
+          "chords": [
+            {"chord": "Em", "position": 0},
+            {"chord": "C", "position": 12}
+          ]
+        },
+        {
+          "line": "באור ובחושך מוצא את דרכי",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "D", "position": 15},
+            {"chord": "C", "position": 23}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pre_chorus",
+      "type": "pre_chorus",
+      "lyrics": [
+        {
+          "line": "אני לא עוצר, לא נותן לזמן",
+          "chords": [
+            {"chord": "Am", "position": 0},
+            {"chord": "D", "position": 20}
+          ]
+        },
+        {
+          "line": "לקחת ממני את הרגע הזה",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "Em", "position": 12}
+          ]
+        },
+        {
+          "line": "כי עוד לא אבדה, העיר הגדולה",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "D", "position": 20}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chorus",
+      "type": "chorus",
+      "lyrics": [
+        {
+          "line": "הלב שלי, עוד שומר אמונים",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "D/F#", "position": 9},
+            {"chord": "Em", "position": 21}
+          ]
+        },
+        {
+          "line": "לכל אהבותיי וחלומותיי",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "D", "position": 18}
+          ]
+        },
+        {
+          "line": "הלב שלי, עוד לא נואש לגמרי",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "D/F#", "position": 9},
+            {"chord": "Em", "position": 23}
+          ]
+        },
+        {
+          "line": "עוד ידע אושר וימים טובים",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "D", "position": 11},
+            {"chord": "G", "position": 21}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "verse2",
+      "type": "verse",
+      "lyrics": [
+        {
+          "line": "הלב שלי כמו ילד שיודע",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "D/F#", "position": 11},
+            {"chord": "Em", "position": 19}
+          ]
+        },
+        {
+          "line": "שאחרי לילה תמיד עולה שמש",
+          "chords": [
+            {"chord": "C", "position": 0},
+            {"chord": "D", "position": 14},
+            {"chord": "G", "position": 24}
+          ]
+        },
+        {
+          "line": "אני רואה רחוק, רחוק",
+          "chords": [
+            {"chord": "Em", "position": 0},
+            {"chord": "C", "position": 15}
+          ]
+        },
+        {
+          "line": "מעבר לאופק שמחר יביא",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "D", "position": 13},
+            {"chord": "C", "position": 21}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pre_chorus_repeat",
+      "type": "pre_chorus",
+      "sameAs": "pre_chorus"
+    },
+    {
+      "name": "chorus_repeat",
+      "type": "chorus",
+      "sameAs": "chorus",
+      "repeat": 2
+    },
+    {
+      "name": "outro",
+      "type": "outro",
+      "chords": ["G", "D/F#", "Em", "C", "D", "G"],
+      "notes": "Fade out on final G"
+    }
+  ],
+  
+  "structure": ["intro", "verse1", "pre_chorus", "chorus", "verse2", "pre_chorus_repeat", "chorus_repeat", "outro"],
+  
+  "chordDiagrams": {
+    "G": {
+      "name": "G major",
+      "positions": [
+        {
+          "frets": ["3", "2", "0", "0", "0", "3"],
+          "fingers": ["2", "1", "0", "0", "0", "3"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "D/F#": {
+      "name": "D major with F# bass",
+      "positions": [
+        {
+          "frets": ["2", "0", "0", "2", "3", "2"],
+          "fingers": ["1", "0", "0", "2", "4", "3"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "Em": {
+      "name": "E minor",
+      "positions": [
+        {
+          "frets": ["0", "2", "2", "0", "0", "0"],
+          "fingers": ["0", "2", "3", "0", "0", "0"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "C": {
+      "name": "C major",
+      "positions": [
+        {
+          "frets": ["x", "3", "2", "0", "1", "0"],
+          "fingers": ["x", "3", "2", "0", "1", "0"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "D": {
+      "name": "D major",
+      "positions": [
+        {
+          "frets": ["x", "x", "0", "2", "3", "2"],
+          "fingers": ["x", "x", "0", "1", "3", "2"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "Am": {
+      "name": "A minor",
+      "positions": [
+        {
+          "frets": ["x", "0", "2", "2", "1", "0"],
+          "fingers": ["x", "0", "2", "3", "1", "0"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    }
+  },
+  
+  "strumPatterns": [
+    {
+      "name": "Verse Pattern",
+      "pattern": "D D DU UDU",
+      "beats": 4,
+      "defaultForSections": ["verse1", "verse2"]
+    },
+    {
+      "name": "Chorus Pattern",
+      "pattern": "DU DU DU DU",
+      "beats": 4,
+      "defaultForSections": ["chorus", "chorus_repeat"]
+    },
+    {
+      "name": "Pre-Chorus Pattern",
+      "pattern": "D D DUDU",
+      "beats": 4,
+      "defaultForSections": ["pre_chorus", "pre_chorus_repeat"]
+    }
+  ],
+  
+  "performanceNotes": "This song has a moderate tempo that works well for street performance. The chorus has a memorable melody that audiences may join in on after hearing it once."
+}

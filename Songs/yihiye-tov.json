@@ -1,0 +1,274 @@
+{
+  "id": "yihiye-tov",
+  "title": "יהיה טוב",
+  "titleTransliterated": "Yihiye Tov",
+  "titleTranslated": "It Will Be Good",
+  "artist": "זהו זה",
+  "artistTransliterated": "Zehu Ze",
+  "originalKey": "D",
+  "timeSignature": "4/4",
+  "recommendedBpm": 88,
+  "difficulty": "beginner",
+  "hasLiveVersion": true,
+  "hasStudioVersion": true,
+  "tags": ["hopeful", "uplifting", "popular"],
+  
+  "sections": [
+    {
+      "name": "intro",
+      "type": "intro",
+      "chords": ["D", "G", "D", "A"],
+      "repeat": 1
+    },
+    {
+      "name": "verse1",
+      "type": "verse",
+      "lyrics": [
+        {
+          "line": "[First line with hopeful sentiment]",
+          "chords": [
+            {"chord": "D", "position": 0},
+            {"chord": "G", "position": 15},
+            {"chord": "D", "position": 24},
+            {"chord": "A", "position": 28}
+          ]
+        },
+        {
+          "line": "[Second line about morning light]",
+          "chords": [
+            {"chord": "D", "position": 0},
+            {"chord": "G", "position": 13},
+            {"chord": "D", "position": 25},
+            {"chord": "A", "position": 29}
+          ]
+        },
+        {
+          "line": "[Line about positive thoughts]",
+          "chords": [
+            {"chord": "Bm", "position": 0},
+            {"chord": "Em", "position": 15}
+          ]
+        },
+        {
+          "line": "[Line about better world]",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "A", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line reinforcing central message]",
+          "chords": [
+            {"chord": "D", "position": 0},
+            {"chord": "G", "position": 16},
+            {"chord": "D", "position": 26},
+            {"chord": "A", "position": 30}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chorus",
+      "type": "chorus",
+      "lyrics": [
+        {
+          "line": "[Main refrain, first part]",
+          "chords": [
+            {"chord": "D", "position": 0},
+            {"chord": "G", "position": 16}
+          ]
+        },
+        {
+          "line": "[Main refrain, second part]",
+          "chords": [
+            {"chord": "A", "position": 10},
+            {"chord": "D", "position": 22}
+          ]
+        },
+        {
+          "line": "[Main refrain, repeated]",
+          "chords": [
+            {"chord": "D", "position": 0},
+            {"chord": "G", "position": 16}
+          ]
+        },
+        {
+          "line": "[Closing line of chorus]",
+          "chords": [
+            {"chord": "A", "position": 10},
+            {"chord": "D", "position": 22}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "verse2",
+      "type": "verse",
+      "lyrics": [
+        {
+          "line": "[Line about facing difficulties]",
+          "chords": [
+            {"chord": "D", "position": 0},
+            {"chord": "G", "position": 15},
+            {"chord": "D", "position": 24},
+            {"chord": "A", "position": 28}
+          ]
+        },
+        {
+          "line": "[Line about hope not being lost]",
+          "chords": [
+            {"chord": "D", "position": 0},
+            {"chord": "G", "position": 14},
+            {"chord": "D", "position": 26},
+            {"chord": "A", "position": 30}
+          ]
+        },
+        {
+          "line": "[Line about journey ahead]",
+          "chords": [
+            {"chord": "Bm", "position": 0},
+            {"chord": "Em", "position": 15}
+          ]
+        },
+        {
+          "line": "[Line about walking together]",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "A", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line reinforcing central message]",
+          "chords": [
+            {"chord": "D", "position": 0},
+            {"chord": "G", "position": 16},
+            {"chord": "D", "position": 26},
+            {"chord": "A", "position": 30}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bridge",
+      "type": "bridge",
+      "lyrics": [
+        {
+          "line": "[Line about night sounds]",
+          "chords": [
+            {"chord": "Bm", "position": 0},
+            {"chord": "A", "position": 14}
+          ]
+        },
+        {
+          "line": "[Line about new day coming]",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "D", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line about horizon light]",
+          "chords": [
+            {"chord": "Bm", "position": 0},
+            {"chord": "A", "position": 16}
+          ]
+        },
+        {
+          "line": "[Line about dawn always arriving]",
+          "chords": [
+            {"chord": "G", "position": 0},
+            {"chord": "A", "position": 18}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chorus_repeat",
+      "type": "chorus",
+      "sameAs": "chorus",
+      "repeat": 2
+    },
+    {
+      "name": "outro",
+      "type": "outro",
+      "chords": ["D", "G", "A", "D"]
+    }
+  ],
+  
+  "structure": ["intro", "verse1", "chorus", "verse2", "bridge", "chorus_repeat", "outro"],
+  
+  "chordDiagrams": {
+    "D": {
+      "name": "D major",
+      "positions": [
+        {
+          "frets": ["x", "x", "0", "2", "3", "2"],
+          "fingers": ["x", "x", "0", "1", "3", "2"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "G": {
+      "name": "G major",
+      "positions": [
+        {
+          "frets": ["3", "2", "0", "0", "0", "3"],
+          "fingers": ["2", "1", "0", "0", "0", "3"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "A": {
+      "name": "A major",
+      "positions": [
+        {
+          "frets": ["x", "0", "2", "2", "2", "0"],
+          "fingers": ["x", "0", "1", "2", "3", "0"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    },
+    "Bm": {
+      "name": "B minor",
+      "positions": [
+        {
+          "frets": ["x", "2", "4", "4", "3", "2"],
+          "fingers": ["x", "1", "3", "4", "2", "1"],
+          "baseFret": 1,
+          "barres": [2]
+        }
+      ]
+    },
+    "Em": {
+      "name": "E minor",
+      "positions": [
+        {
+          "frets": ["0", "2", "2", "0", "0", "0"],
+          "fingers": ["0", "1", "2", "0", "0", "0"],
+          "baseFret": 1,
+          "barres": []
+        }
+      ]
+    }
+  },
+  
+  "strumPatterns": [
+    {
+      "name": "Basic",
+      "pattern": "D DU UD U",
+      "beats": 4,
+      "defaultForSections": ["verse1", "verse2"]
+    },
+    {
+      "name": "Chorus",
+      "pattern": "D D DU UD U",
+      "beats": 4,
+      "defaultForSections": ["chorus", "chorus_repeat"]
+    }
+  ],
+  
+  "performanceNotes": "This is an uplifting song that works well for street performances. The chorus is simple and audiences can join in easily. For a simpler version, you can play just D, G, and A throughout. Works well with a capo on the 2nd fret (playing in C)."
+}
